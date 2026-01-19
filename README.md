@@ -42,7 +42,6 @@
 
 - 📧 Email: **the.atulgour@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/atulkumargour/
-- 🧑‍💻 GitHub: https://github.com/Atul-Gour
 - 🧠 Codolio: https://codolio.com/profile/the_atul_gour
 
 ---
@@ -54,5 +53,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-Gour&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Atul-Gour&theme=tokyonight" />
 </p>
+
