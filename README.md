@@ -6,7 +6,7 @@
 🎓 **B.E. Computer Science & Engineering** at Chandigarh University  
 💻 Passionate about **Software Development & DSA**  
 📘 Currently working with **Java, MERN Stack, SQL**  
-🔥 Solved **450+ DSA problems** on LeetCode & Codeforces  
+🔥 Solved **550+ DSA problems** on LeetCode , geeksforgeeks & Codeforces  
 
 ---
 
