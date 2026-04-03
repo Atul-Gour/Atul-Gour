@@ -1,58 +1,94 @@
 <h1 align="center">Hi there 👋, I'm Atul Kumar Gour</h1>
-<h3 align="center">CSE Undergraduate | Java Developer | Problem Solver</h3>
+<h3 align="center">Backend Developer | DSA Enthusiast | CSE Undergraduate</h3>
 
 ---
 
-🎓 **B.E. Computer Science & Engineering** at Chandigarh University  
-💻 Passionate about **Software Development & DSA**  
-📘 Currently working with **Java, MERN Stack, SQL**  
-🔥 Solved **550+ DSA problems** on LeetCode , geeksforgeeks & Codeforces  
+## 🎓 About Me  
+- 🎓 3rd Year **B.E. Computer Science** student @ Chandigarh University  
+- 💡 Strong focus on **Backend Development & Scalable Systems**  
+- 🔥 Solved **600+ DSA problems** (LeetCode Knight ⭐ 1880)  
+- ⚡ Experienced in **Spring Boot, RabbitMQ, Redis & REST APIs**  
+- 🎯 Actively looking for **Software Engineering Internships**  
 
 ---
 
-## 🛠 Tech Skills
+## 🛠 Tech Stack  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-</p>
+### 👨‍💻 Languages  
+`Java` | `C++` | `C` | `JavaScript` | `SQL`  
 
----
+### 🌐 Web Development  
+`HTML` | `CSS` | `React.js` | `Node.js` | `Express.js`  
 
-## 🚀 Projects
+### 🗄 Databases  
+`MongoDB` | `MySQL` | `PostgreSQL` | `Redis`  
 
-- **FITMATE** – Full-stack sports matchmaking platform  
-  🔗 https://fitmate-frontend-ten.vercel.app/
+### ⚙️ Backend & Systems  
+`Spring Boot` | `RabbitMQ` | `Quartz Scheduler` | `REST APIs`  
 
-- **Crop Disease Assistant** – Multilingual assistant for farmers (HTML, CSS, JS)
-
-- **Nike Clone** – Responsive UI clone using HTML & CSS
+### 🧰 Tools & Platforms  
+`Git` | `GitHub` | `Postman` | `Docker` | `Vercel` | `Render`  
 
 ---
 
-## 📫 How to Reach Me
+## 🚀 Projects  
 
-- 📧 Email: **the.atulgour@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/atulkumargour/
-- 🧠 Codolio: https://codolio.com/profile/the_atul_gour
+### 🔹 Job Hunter Bot  
+⚙️ Automated job scraping & application system  
+- Built with **Spring Boot + RabbitMQ + Redis + Selenium + Quartz**  
+- Async job processing using **RabbitMQ (Message Broker)**  
+- Optimized performance with **Redis caching**  
+- Automated repetitive job search workflows  
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 FITMATE (Tekathon 4.0 | SIH 2025)  
+🏀 Sports matchmaking platform  
+- Developed **REST APIs** for authentication & match systems  
+- Built dynamic UI using **React + Tailwind CSS**  
+- Designed scalable backend using **Node.js & MongoDB**  
+- Integrated **AI chatbot module** for better engagement  
+
+---
+
+## 🏆 Achievements  
+
+- 🧠 **LeetCode Knight (Rating: 1880)**  
+- ⭐ **CodeChef 3★ (Rating: 1694)**  
+- 🔥 Solved **600+ DSA problems** across platforms  
+
+---
+
+## 📜 Certifications  
+
+- Deloitte Technology Job Simulation (Forage)  
+- .NET Full Stack Foundation – Board Infinity  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: **the.atulgour@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/atulkumargour/  
+- 💻 GitHub: https://github.com/Atul-Gour  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atul-Gour&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atul-Gour&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Atul-Gour&theme=tokyonight"/>
 </p>
+
+---
+
+## ⚡ Why Hire Me?  
+
+- 🚀 Strong in **DSA + Backend + System Design fundamentals**  
+- ⚙️ Hands-on with **scalable architectures (queues, caching, schedulers)**  
+- 💡 Real-world projects solving **actual problems (automation, matchmaking)**  
 
